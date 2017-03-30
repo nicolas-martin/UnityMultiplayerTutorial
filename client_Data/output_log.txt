@@ -14,53 +14,13 @@ Platform assembly: C:\Users\nico-pc\Documents\Multiplayer Tutorial\client_Data\M
 Loading C:\Users\nico-pc\Documents\Multiplayer Tutorial\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\nico-pc\Documents\Multiplayer Tutorial\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\nico-pc\Documents\Multiplayer Tutorial\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.091 seconds
+- Completed reload, in  0.110 seconds
 Platform assembly: C:\Users\nico-pc\Documents\Multiplayer Tutorial\client_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\nico-pc\Documents\Multiplayer Tutorial\client_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.585642 ms
+UnloadTime: 0.577168 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2904 -> priority: 1 
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Dead!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
+  Thread -> id: f14 -> priority: 1 
